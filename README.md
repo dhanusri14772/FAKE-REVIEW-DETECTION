@@ -1,5 +1,4 @@
-# FAKE-REVIEW-DETECTION
-Detects fake product reviews in real-time using a fine tuned Electra model with onnx for inference. served via FastAPI and enhanced with OpenRouter LLMs for explanation. Includes a Chrome Extension to flag reviews on any e-commerce sites with instant predictions and insights.
+
 # 🛡️ Fake Review Detector with Explainable AI
 
 This project detects **fake product reviews** in real-time using a fine-tuned **Electra Transformer model**, optimized with **ONNX Runtime** for blazing-fast inference. It integrates a **FastAPI backend** and an **explainable AI layer** powered by **OpenRouter LLMs** (like Mistral-7B) to justify predictions.  
