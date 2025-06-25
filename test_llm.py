@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"  # Replace this with your real key
+API_KEY = "OPENAI KEY"  # Replace this with your real key
 
 headers = {
     "Authorization": f"Bearer {API_KEY}",
